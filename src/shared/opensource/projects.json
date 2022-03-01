@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Spam Filter",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/imamankhatri/spam-filter",
+      "description": "An ML project that filters out the Mails(spam or ham) based on 75% trained data and 25% test data in python. Published a research paper on the same in IJCER.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Chat App",
+      "createdAt": "2020-06-03T11:53:55Z",
+      "url": "https://github.com/imamankhatri/SimpleChatApp",
+      "description": "A chat app in Android, made using Firebase tools. Chat communication is based on google authentication.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Android",
+          "iconifyClass": "simple-icons:android"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "SpaceShuttle Simulation",
+      "createdAt": "2020-06-19T14:24:55Z",
+      "url": "https://github.com/imamankhatri/SpaceShuttle-Simulation",
+      "description": "An illustrative Space Shuttle Simulation created in C++ using OpenGL.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C++",
+          "iconifyClass": "simple-icons:cplusplus"
+        },
+        {
+          "name": "OpenGL",
+          "iconifyClass": "simple-icons:opengl"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Android-XAMPP",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/imamankhatri/MoviesSQL-PHP-Android",
+      "description": "An app that serves as movie explorer, built in Android with underlying XAMPP database.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Android",
+          "iconifyClass": "simple-icons:android"
+        },
+        {
+          "name": "MYSql",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "XAMPP",
+          "iconifyClass": "logos-xampp"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "Medicine Store Management",
+      "createdAt": "2019-08-13T13:13:00Z",
+      "url": "https://github.com/imamankhatri/Medicine-Store-Management",
+      "description": "An illustrative medicine store ERP powered by XAMPP and classic web dev tools.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "MYSql",
+          "iconifyClass": "logos-mysql"
+        },
+        {
+          "name": "XAMPP",
+          "iconifyClass": "logos-xampp"
+        },
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "HTML5",
+          "iconifyClass": "simple-icons:html5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "simple-icons:css3"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+      "name": "Ping-Pong",
+      "createdAt": "2019-04-18T17:25:51Z",
+      "url": "https://github.com/ashutosh1919/Survival_3D_Game",
+      "description": "A minimalistic ping-pong game implemented on HTML Canvas + JavaScript.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML5",
+          "iconifyClass": "simple-icons:html5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "simple-icons:css3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-js"
+        }
+      ]
+    }
+  ]
+}
